@@ -1,3 +1,4 @@
+#its a while loop function printing numbers btwn 6 & 19
 i = 6
 while(i < 19):
  i = i + 1
