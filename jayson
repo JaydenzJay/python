@@ -1,0 +1,23 @@
+def get_age():
+    return int(raw_input("Whats your age?"))
+    return age
+
+def get_name():
+    return raw_input("Whats your name?")
+
+age = get_age()
+name - get_name()
+print "Hey, " + name + ", you are " + age + "years old, dude!"
+
+def calculate(op1, op2, f):
+ if f == "add":
+  return op1 + op2
+
+elif f == "subtract"
+  return op1 - op2
+
+elif f == "Multiply"
+  return op1 * op2
+
+else f == "Divide"
+  return op1 / op2 
