@@ -1,3 +1,4 @@
+#Asks of your name and age so you insert and prints it out
 def get_age():
     return int(raw_input("Whats your age"))
     return age
